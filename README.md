@@ -9,7 +9,6 @@ This is the client-side application of the AI-Powered Security System. It uses t
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 
