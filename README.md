@@ -1,6 +1,6 @@
-# AI Powered Home-Security System Client
+# AI Powered Security System Client
 
-This is the client-side application of the AI-Powered Home Security System. It uses the camera to detect motion and sends images to the backend server for analysis when motion is detected.
+This is the client-side application of the AI-Powered Security System. It uses the camera to detect motion and sends images to the backend server for analysis when motion is detected.
 
 ## Table of Contents
 
@@ -14,7 +14,7 @@ This is the client-side application of the AI-Powered Home Security System. It u
 
 ## Description
 
-The client-side application of the AI-Powered Home Security System utilizes an external or laptop camera to monitor for motion. When motion is detected, it captures an image and sends it to the backend server for analysis. The server then processes the image and sends alerts via email and SMS if necessary.
+The client-side application of the AI-Powered Security System utilizes an external or laptop camera to monitor for motion. When motion is detected, it captures an image and sends it to the backend server for analysis. The server then processes the image and sends alerts via email and SMS if necessary.
 
 ## Features
 
